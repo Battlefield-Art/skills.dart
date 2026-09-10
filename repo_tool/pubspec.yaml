@@ -13,6 +13,7 @@ dev_dependencies:
   # of Dart code snippets and examples across the skills/ directory.
   args: ^2.5.0
   cli_util: ^0.6.0
+  file: ^7.0.0
   io: ^1.0.4
   lints: ^6.0.0
   logging: ^1.2.0
